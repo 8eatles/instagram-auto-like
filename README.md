@@ -1,5 +1,9 @@
 # Instagram Auto Like Bot
 
+## ⚠️Important
+
+It works only korean environment.
+
 ## How it works
 
 1. Open instagram login page.
